@@ -1,0 +1,16 @@
+{
+  "name": "ssdscan",
+  "version": "1.0.0",
+  "description": "Scans /r/buildapcsales for SSD sales",
+  "main": "scan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Wagoner",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "fs": "0.0.1-security",
+    "snoowrap": "^1.15.2"
+  }
+}
